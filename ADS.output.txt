@@ -1,0 +1,4 @@
+ADS2 (Query and response (IP_address)): (ftp.shop.com, 133.54.5.3) 
+ADS3 (Query and response (IP_address)): (vpn.store.com, 143.11.5.25) 
+ADS4 (Query and response (IP_address)): (vpn.mynah.edu, 198.167.5.5) 
+ADS6 (Query and response (IP_address)): (vpn.cougar.edu, 212.18.55.5) 

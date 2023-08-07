@@ -1,0 +1,5 @@
+RDS (Query , Response(TDS_IP_Adress, TDS_Port Number)) : (com , (127.0.0.1 1455)) 
+RDS (Query , Response(TDS_IP_Adress, TDS_Port Number)) : (com  , (127.0.0.1 1455)) 
+RDS (Query , Response(TDS_IP_Adress, TDS_Port Number)) : (edu  , (127.0.0.1 1456)) 
+RDS (Query , Response(TDS_IP_Adress, TDS_Port Number)) : (edu , (127.0.0.1 1456)) 
+RDS (Query , Response(TDS_IP_Adress, TDS_Port Number)) : (ed , (Not_Found 0)) 

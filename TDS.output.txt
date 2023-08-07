@@ -1,0 +1,4 @@
+TDS1 Server (Query , Respose (ADS_IP_Address, ADS_Port Number)) : (shop.com , (127.0.0.1 , 1458)) 
+TDS1 Server (Query , Respose (ADS_IP_Address, ADS_Port Number)) : (store.com , (127.0.0.1 , 1459)) 
+TDS2 Server (Query , Respose (ADS_IP_Address, ADS_Port Number)) : (mynah.edu , (127.0.0.1 , 1460)) 
+TDS2 Server (Query , Respose (ADS_IP_Address, ADS_Port Number)) : (cougar.edu , (127.0.0.1 , 1462)) 

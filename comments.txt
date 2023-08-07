@@ -1,0 +1,18 @@
+NAME: Prakash A
+Roll Number: CS20B061
+Course: CS3205 Jan. 2023 semester
+Lab number: 2
+Date of submission: 04/03/2023
+I confirm that the source file is entirely written by me without
+resorting to any dishonest means.
+
+From This Assignment I have learnt:
+How a simple hierarchical Domain Name Server (DNS) system, with a client and a set of relevant DNS servers works, and how to implement it using sockets.
+How to use the DNS protocol to resolve a domain name to an IP address, and it helped me to understand the DNS protocol in detail.
+
+My Code Doesnot Run Work in linux , so I cant submit my Script file for the same.
+Please consider it 
+
+A Possible Improvement:
+We can have different input files for each server which contains details about only that server and its corresponding IP address. 
+This will help us to reduce the time complexity of the program ,and it will help in making the program look more like a real DNS server working in a real network.

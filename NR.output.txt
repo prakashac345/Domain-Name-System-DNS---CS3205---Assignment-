@@ -1,0 +1,4 @@
+Query From Client: ftp.shop.com and Response : 133.54.5.3 
+Query From Client: vpn.store.com  and Response : 143.11.5.25 
+Query From Client: vpn.mynah.edu  and Response : 198.167.5.5 
+Query From Client: vpn.cougar.edu and Response : 212.18.55.5 
